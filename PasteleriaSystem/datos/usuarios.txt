@@ -1,0 +1,2 @@
+Luis,admin@pasteleriaibeht.com,1234,CLIENTE
+Admin,admin@pasteleria.com,1234,ADMIN

@@ -1,0 +1,6 @@
+T001,Torta de Chocolate,45000.0,9,Torta húmeda de chocolate con ganache,TORTA,Chocolate,12
+T002,Torta de Vainilla,38000.0,8,Torta esponjosa de vainilla con crema,TORTA,Vainilla,10
+T003,Torta Red Velvet,52000.0,2,Torta red velvet con frosting de queso crema,TORTA,Vainilla,14
+P001,Cupcake de Chocolate,5500.0,26,Cupcake con buttercream de chocolate,INDIVIDUAL,cupcake
+P002,Galleta de Mantequilla,2800.0,50,Galleta artesanal de mantequilla,INDIVIDUAL,galleta
+P003,Muffin de Arándanos,4200.0,14,Muffin esponjoso con arándanos frescos,INDIVIDUAL,muffin
